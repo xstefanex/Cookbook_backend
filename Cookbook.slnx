@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CB.API/CB.API.csproj" />
+  <Project Path="CB.APPLICATION/CB.APPLICATION.csproj" />
+  <Project Path="CB.DOMAIN/CB.DOMAIN.csproj" />
+  <Project Path="CB.PERSISTENCE/CB.PERSISTENCE.csproj" />
+</Solution>

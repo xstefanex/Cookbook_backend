@@ -1,0 +1,16 @@
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\bin\Debug\net10.0\CB.PERSISTENCE.deps.json
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\bin\Debug\net10.0\CB.PERSISTENCE.dll
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\bin\Debug\net10.0\CB.PERSISTENCE.pdb
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\bin\Debug\net10.0\CB.DOMAIN.dll
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\bin\Debug\net10.0\CB.DOMAIN.pdb
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.csproj.AssemblyReference.cache
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.AssemblyInfoInputs.cache
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.AssemblyInfo.cs
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.csproj.CoreCompileInputs.cache
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.sourcelink.json
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSI.986C8BB0.Up2Date
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.dll
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\refint\CB.PERSISTENCE.dll
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\CB.PERSISTENCE.pdb
+C:\Users\teka\Documents\Cookbook\Cookbook_backend\CB.PERSISTENCE\obj\Debug\net10.0\ref\CB.PERSISTENCE.dll
