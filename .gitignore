@@ -140,3 +140,10 @@ vite.config.ts.timestamp-*
 
 # JSON files
 *.json
+
+# Build files
+*.dll
+*.so
+*.dylib
+*.dll.config
+*.BuildHost.exe*
