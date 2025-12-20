@@ -147,3 +147,10 @@ vite.config.ts.timestamp-*
 *.dylib
 *.dll.config
 *.BuildHost.exe*
+*.pdb
+*.db
+*.exe
+
+# folders
+**/bin/
+**/obj/
